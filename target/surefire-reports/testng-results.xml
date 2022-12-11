@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3382" started-at="2022-12-11T07:06:53Z" finished-at="2022-12-11T07:06:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3382" started-at="2022-12-11T07:06:53Z" finished-at="2022-12-11T07:06:57Z">
+      <class name="restAPIE2E.EndToEndTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:restAPIE2E.EndToEndTest@7bc1a03d]" name="test1" duration-ms="3360" started-at="2022-12-11T07:06:53Z" finished-at="2022-12-11T07:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- restAPIE2E.EndToEndTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
